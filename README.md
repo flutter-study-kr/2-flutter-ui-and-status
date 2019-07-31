@@ -5,7 +5,7 @@
 
 맥 : terminal 실행후 아래 명령어 실행 
 ```
-git clone https://github.com/flutterstudy/2-flutter-ui-and-status.git
+git clone https://github.com/flutter-study-kr/2-flutter-ui-and-status.git
 
 ```
 
